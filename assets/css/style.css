@@ -958,6 +958,10 @@ main {
   margin-bottom: 15px;
 }
 
+.skill{
+margin-bottom: 30px;
+}
+
 .skill .title-wrapper {
   display: flex;
   align-items: center;
